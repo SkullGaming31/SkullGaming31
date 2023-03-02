@@ -1,29 +1,40 @@
 # skullgaming31
+# About Me
 
-## Discord & Twitch ChatBot
-done by **beginner** coder!
+## Discord ChatBot in Javascript & Typescript
+### done by **beginner** coder!
 
-## About Me
-
+## 🌱 I’m currently working on
+Private Repository of Overlay Expert TS Discord Bot
 
 ## 🌱 I’m currently learning
-Javascript<br />
-MongoDB - Mongoose
+Typescript<br />
+MongoDB - Mongoose<br />
+Discord.js
 
-## 📫 Contact Me
+## 📫 How to reach me:
 
-Corey - [@skullgaming31](https://twitter.com/skullgaming31) - [Email](skullgamingg31@gmail.com)
+[skullgaming31 Twitter](https://twitter.com/canadiandragon)<br />
+[Instagram](https://instagram.com/canadiendragon)<br />
+[Email](skullgamingg31@gmail.com)<br />
 
-## Project Link: 
-Projects im currently Working on, plus a Private Repo<br />
-[Twitch Chat Bot](https://github.com/skullgaming31/skulledbotTwitch)<br />
-[Discord Chat Bot](https://github.com/skullgaming31/skulledbotDiscord)
+## Project Link&Information: 
+Projects im currently Working on<br />
+On Hold [Twitch Chat Bot](https://github.com/skullgaming31/skulledbotTwitch)<br />
+On Hold [Discord Chat Bot](https://github.com/skullgaming31/skulledbotDiscord)<br />
+Private Repo [Overlay Expert Discord Bot](#)
 
 <h5>Twitch Chat Bot</h5>
-* [Twurple](https://twurple.js.org/)<br />
+Being Coded in Javascript with<br />
+[Twurple](https://twurple.js.org/)<br />
 
-<h5>Discord Bot</h5>
-* [Discord.js v13](https://discord.js.org/)<br />
+<h5>SkulledBotV2</h5>
+Being Coded in Javascript with<br />
+[Discord.js v13](https://discord.js.org/)<br />
+
+<h3>Overlay Expert Discord Bot</h3>
+Being Coded in TypeScript with <br />
+[Discord.js V14](https://discord.js.org/)<br />
 
 ### Contributions
 Any Help on any public repos will be greatly appreacted
