@@ -10,7 +10,7 @@ Private Repository of Overlay Expert TS Discord Bot
 ## 🌱 I’m currently learning
 Typescript<br />
 MongoDB - Mongoose<br />
-Discord.js
+Discord.js<br />
 @twurple Twitch Library
 
 ## 📫 How to reach me:
@@ -29,11 +29,11 @@ Private Repo [Dragon Bot](#)
 Being Coded in Javascript with<br />
 [Twurple](https://twurple.js.org/)<br />
 
-<h5>SkulledBotV2</h5>
+<h5>SkulledBotV2</h5>Dead Project
 Being Coded in Javascript with<br />
 [Discord.js v13](https://discord.js.org/)<br />
 
-<h3>Dragon Bot</h3>
+<h3>Dragon Bot</h3>(Private)
 Being Coded in TypeScript with <br />
 [Discord.js V14](https://discord.js.org/)<br />
 
