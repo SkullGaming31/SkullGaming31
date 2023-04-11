@@ -11,6 +11,7 @@ Private Repository of Overlay Expert TS Discord Bot
 Typescript<br />
 MongoDB - Mongoose<br />
 Discord.js
+@twurple Twitch Library
 
 ## 📫 How to reach me:
 
@@ -20,9 +21,9 @@ Discord.js
 
 ## Project Link&Information: 
 Projects im currently Working on<br />
-On Hold [Twitch Chat Bot](https://github.com/skullgaming31/skulledbotTwitch)<br />
+[Twitch Chat Bot](https://github.com/skullgaming31/skulledbotTwitch)<br />
 On Hold [Discord Chat Bot](https://github.com/skullgaming31/skulledbotDiscord)<br />
-Private Repo [Overlay Expert Discord Bot](#)
+Private Repo [Dragon Bot](#)
 
 <h5>Twitch Chat Bot</h5>
 Being Coded in Javascript with<br />
@@ -32,7 +33,7 @@ Being Coded in Javascript with<br />
 Being Coded in Javascript with<br />
 [Discord.js v13](https://discord.js.org/)<br />
 
-<h3>Overlay Expert Discord Bot</h3>
+<h3>Dragon Bot</h3>
 Being Coded in TypeScript with <br />
 [Discord.js V14](https://discord.js.org/)<br />
 
